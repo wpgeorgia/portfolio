@@ -21,7 +21,6 @@ With key environmental data, to determine if growing two species of pine trees (
   - ArcGIS Pro
   - Raster Calculator
   - Ordinal scoring system (0 = not suitable, 1 = somewhat suitable, 2 = suitable)
-  - Combined suitability score: 0–8
 
 - **Visualization**: Two raster maps were created with green-to-red shading to represent suitability for each tree species.
 
