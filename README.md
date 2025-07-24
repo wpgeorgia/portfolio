@@ -1,13 +1,13 @@
 
-# 🌲 GIS Suitability Analysis: Pine Tree Viability in North Texas
+# 🌲 GIS Suitability Analysis: Christmas Trees Grown in North Texas
 
 ## Overview
 
-This project explores the ecological suitability of growing Christmas tree species — specifically **Virginia Pine** (*Pinus virginiana*) and **Eastern White Pine** (*Pinus strobus*) — within a 150-mile radius of Dallas, TX.
+This project explores the ecological suitability of growing Christmas tree species — specifically **Virginia Pine** (*Pinus virginiana*) and **Eastern White Pine** (*Pinus strobus*) — within a 150-mile radius of Dallas, Texas.
 
 ## Objective
 
-To determine if specific areas in North Texas can support the growth of either tree species using key environmental criteria.
+With key environmental data, to determine if growing two species of pine trees (which are well-suited for Christmas) is viable in an area centered around Dallas.
 
 ## Data & Methods
 
@@ -33,7 +33,7 @@ To determine if specific areas in North Texas can support the growth of either t
 
 ## Reflection
 
-A follow-up analysis might assign greater weight to temperature due to its high limiting effect. Future changes in climate may further impact viability.
+Temperature is the most critical factor. Given North Texas's unforgiving heat along with the continuing negative impacts from climate change, a deeper anaylysis factoring in more detailed temperature data would provide a more substantial conclusion.
 
 ## Report
 
