@@ -1,5 +1,5 @@
 
-# 🌲 GIS Suitability Analysis: Christmas Trees Grown in North Texas
+# 🌲 GIS Suitability Analysis: Growing Christmas Trees in North Texas
 
 ## Overview
 
