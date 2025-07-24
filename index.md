@@ -7,7 +7,7 @@ Welcome! I'm a Masters in Urban Analytics student at Georgia Tech with a passion
 
 ## 🌲 GIS Suitability: Pine Tree Viability in North Texas
 
-**Objective:** Assess ecological suitability for growing Christmas trees near Dallas, TX.
+**Objective:** Can Christmas trees grow near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
 
 **Approach:**
 - Compared native habitat conditions of **Virginia Pine** and **Eastern White Pine** to North Texas environmental data.
@@ -16,21 +16,21 @@ Welcome! I'm a Masters in Urban Analytics student at Georgia Tech with a passion
 - Combined layers using Raster Calculator in ArcGIS Pro to score overall viability (0–8 scale).
 
 **Outcome:**  
-Viable areas were concentrated in East Texas (esp. near Tyler), with temperature being the most limiting factor across the study area.
+Viable areas were concentrated in East Texas, with temperature being the most limiting factor across the study area.
 
 📄 [Read the Full Report](./projects/pine_trees_viability/README.md)
 
 ---
 
-## 🗺️ StoryMap: Public Sentiment & Transportation in Atlanta
+## 🗺️ StoryMap: Dallas Parks: Decent or Deficient?
 
 **Overview:**  
-This ArcGIS StoryMap visualizes public comment analysis across several transportation initiatives in Atlanta.
+This ArcGIS StoryMap explores why Dallas ranks so low in parks among America's largest cities.
 
 **Features:**
 - Map-based storytelling using **ArcGIS StoryMaps**
-- Themes extracted from 4,000+ comments
-- Neighborhood-level prioritization of concerns like safety, connectivity, and biking infrastructure
+- Feature layers pulled from the city of Dallas and the Census Bureau
+- Geoprocessing tools used to take a closer look at park coverage in the city by census tract
 
 🔗 [Explore the StoryMap](https://arcg.is/1aO1Cv1)
 
