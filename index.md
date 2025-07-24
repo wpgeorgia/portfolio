@@ -1,7 +1,7 @@
 
-# 🏙️ Will Georgia's GIS & Data Analysis Portfolio
+# 🏙️ GIS & Urban Data Science Portfolio
 
-Welcome! I'm a Masters in Urban Analytics student at Georgia Tech with a passion for cities and the built space we inhabit. This portfolio highlights GIS-based analysis and interactive map design.
+Welcome! I'm Will Georgia, a Masters in Urban Analytics student at Georgia Tech with a passion for cities and the built space we inhabit. This portfolio highlights GIS-based analysis and interactive map design.
 
 ---
 
@@ -39,4 +39,4 @@ This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ra
 ## 📬 Contact
 
 - 📧 william.georgia@gatech.edu
-- 🌐 [https://github.com/wpgeorgia]
+- 🌐 [wpgeorgia.github.io/portfolio/]
