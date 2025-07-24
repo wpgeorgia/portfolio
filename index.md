@@ -25,7 +25,7 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 ## 🗺️ StoryMap: Dallas Parks: Decent or Deficient?
 
 **Overview:**  
-This ArcGIS StoryMap explores why Dallas ranks so low in parks among America's largest cities.
+This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ranking in public green space.
 
 **Features:**
 - Map-based storytelling using **ArcGIS StoryMaps**
