@@ -1,7 +1,7 @@
 
-# 🌍 Will G.'s GIS & Spatial Analysis Portfolio
+# 🏙️ Will Georgia's GIS & Data Analysis Portfolio
 
-Welcome! I'm a spatial analyst with a passion for environmental assessment and cartographic storytelling. This portfolio highlights GIS-based analysis and interactive map design.
+Welcome! I'm a Masters in Urban Analytics student at Georgia Tech with a passion for cities and the built space we inhabit. This portfolio highlights GIS-based analysis and interactive map design.
 
 ---
 
@@ -38,5 +38,5 @@ This ArcGIS StoryMap visualizes public comment analysis across several transport
 
 ## 📬 Contact
 
-- 📧 [your.email@example.com]
-- 🌐 [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 📧 william.georgia@gatech.edu
+- 🌐 [https://github.com/wpgeorgia]
