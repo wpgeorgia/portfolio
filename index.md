@@ -1,7 +1,5 @@
 
-# 🏙️ GIS & Urban Data Science Portfolio
-
-Welcome! I'm Will Georgia, a Masters in Urban Analytics student at Georgia Tech with a passion for cities and the built space we inhabit. This portfolio highlights GIS-based analysis and interactive map design.
+# 🏙️ Welcome! I'm Will Georgia, a Masters in Urban Analytics student at Georgia Tech with a passion for cities and the built space we inhabit. This portfolio highlights skills I've gained in the classroom ready to be applied to today's urban challenges.
 
 ---
 
