@@ -36,7 +36,7 @@ This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ra
 
 # 🚍 Park-and-Ride Travel Time Simulation
 
-This project analyzes park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
+This assignment analyzes park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
 
 - GTFS transit data from MARTA
 - ACS demographic data
