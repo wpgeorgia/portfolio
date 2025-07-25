@@ -36,4 +36,4 @@ Temperature is the most critical factor. Given North Texas's unforgiving heat al
 
 ## Report
 
-📄 Full write-up: *Pine_Trees_Capability_Analysis_2025_02_19.docx*
+📄 Full write-up: *Pine_Trees_Capability_Analysis_2025_02_19.pdf*
