@@ -16,7 +16,7 @@ I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a
 **Outcome:**  
 Viable areas were concentrated in East Texas, with temperature being the most limiting factor across the study area.
 
-📄 [Read the Full Report](./README.md)
+📄 [Read the Full Report](./Pine_Trees_Capability_Analysis_2025_02_19.pdf)
 
 ---
 
