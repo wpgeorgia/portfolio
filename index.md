@@ -33,6 +33,39 @@ This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ra
 🔗 [Explore the StoryMap](https://arcg.is/1aO1Cv1)
 
 ---
+---
+layout: default
+title: Park-and-Ride Travel Time Simulation
+---
+
+# 🚍 Park-and-Ride Travel Time Simulation
+
+This project analyzes park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
+
+- GTFS transit data from MARTA
+- ACS demographic data
+- OpenStreetMap road networks
+- Spatial network analysis with `sfnetworks`
+- Transit routing with `tidytransit`
+
+**Explore the full report here:**
+
+👉 [View Interactive Report on RPubs](https://rpubs.com/wgeorgia6/1238230)
+
+## 📌 Key Tools and Methods
+
+- `tidytransit` and `gtfsrouter` for GTFS data
+- `osmdata` and `sfnetworks` for street networks
+- `tidycensus` for ACS data (household income & race)
+- Spatial joins, centroid extraction, and travel time simulation
+
+## 🗺️ Outputs
+
+The report includes thematic maps and scatterplots showing relationships between:
+- Household income and travel time
+- Minority population share and travel time
+
+---
 
 ## 📬 Contact
 
