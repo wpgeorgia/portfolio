@@ -3,6 +3,35 @@ I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a
 
 ---
 
+# 🚍 Park-and-Ride Travel Time Simulation
+
+This assignment analyzes park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
+
+- GTFS transit data from MARTA
+- ACS demographic data
+- OpenStreetMap road networks
+- Spatial network analysis with `sfnetworks`
+- Transit routing with `tidytransit`
+
+**Explore the full report here:**
+
+👉 [View Interactive Report on RPubs](https://rpubs.com/wgeorgia6/1238230)
+
+## 📌 Key Tools and Methods
+
+- `tidytransit` and `gtfsrouter` for GTFS data
+- `osmdata` and `sfnetworks` for street networks
+- `tidycensus` for ACS data (household income & race)
+- Spatial joins, centroid extraction, and travel time simulation
+
+## 🗺️ Outputs
+
+The report includes thematic maps and scatterplots showing relationships between:
+- Household income and travel time
+- Minority population share and travel time
+
+---
+
 ## 🌲 GIS Suitability: Pine Tree Viability in North Texas
 
 **Objective:** Can Christmas trees grow near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
@@ -31,35 +60,6 @@ This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ra
 - Geoprocessing tools used to take a closer look at park coverage in the city by census tract
 
 🔗 [Explore the StoryMap](https://arcg.is/1aO1Cv1)
-
----
-
-# 🚍 Park-and-Ride Travel Time Simulation
-
-This assignment analyzes park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
-
-- GTFS transit data from MARTA
-- ACS demographic data
-- OpenStreetMap road networks
-- Spatial network analysis with `sfnetworks`
-- Transit routing with `tidytransit`
-
-**Explore the full report here:**
-
-👉 [View Interactive Report on RPubs](https://rpubs.com/wgeorgia6/1238230)
-
-## 📌 Key Tools and Methods
-
-- `tidytransit` and `gtfsrouter` for GTFS data
-- `osmdata` and `sfnetworks` for street networks
-- `tidycensus` for ACS data (household income & race)
-- Spatial joins, centroid extraction, and travel time simulation
-
-## 🗺️ Outputs
-
-The report includes thematic maps and scatterplots showing relationships between:
-- Household income and travel time
-- Minority population share and travel time
 
 ---
 
