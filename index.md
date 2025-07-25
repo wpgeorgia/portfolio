@@ -5,7 +5,7 @@ I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a
 
 # 🚍 Park-and-Ride Travel Time Simulation
 
-This assignment analyzes park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
+This assignment analyzed park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
 
 - GTFS transit data from MARTA
 - ACS demographic data
@@ -32,7 +32,7 @@ The report includes thematic maps and scatterplots showing relationships between
 
 ---
 
-## 🌲 GIS Suitability: Pine Tree Viability in North Texas
+## 🌲 GIS Capability Analysis: Pine Tree Viability in North Texas
 
 **Objective:** Can Christmas trees grow near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
 
@@ -49,7 +49,7 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 
 ---
 
-## 🗺️ StoryMap: Dallas Parks: Decent or Deficient?
+## 🗺️ GIS StoryMap: Dallas Parks: Decent or Deficient?
 
 **Overview:**  
 This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ranking in public green space.
