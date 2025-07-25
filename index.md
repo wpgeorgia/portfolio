@@ -33,10 +33,6 @@ This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ra
 🔗 [Explore the StoryMap](https://arcg.is/1aO1Cv1)
 
 ---
----
-layout: default
-title: Park-and-Ride Travel Time Simulation
----
 
 # 🚍 Park-and-Ride Travel Time Simulation
 
