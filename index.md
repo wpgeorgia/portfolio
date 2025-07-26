@@ -32,6 +32,55 @@ The report includes thematic maps and scatterplots showing relationships between
 
 ---
 
+# 🚇 Change in Public Transit Ridership Near MARTA Rail Stations (2018–2023)
+
+![Change in Ridership Map](Chg_Ridership_near_MARTA_Rail.jpg)
+
+## Overview
+
+This map visualizes the **change in public transit commuting near MARTA rail stations in Atlanta** between 2018 and 2023. Using data from the **American Community Survey (ACS) 5-Year Estimates**, it focuses on areas **within a 1-mile buffer** around each rail station, representing a typical walkable catchment area.
+
+The analysis compares the **percentage of workers commuting by public transit** in 2018 vs. 2023 to identify stations with the most significant changes over time.
+
+## Key Takeaways
+
+- Northern Red Line stations experienced **steep declines**, with some stations seeing reductions over 75%.
+- Several central stations show **moderate decreases**, while one even saw **gains in transit mode share**.
+- These patterns reflect broader shifts in commuting behavior, likely influenced by **COVID-19**, the **rise of remote work**, and ongoing changes in transit accessibility.
+
+## Methodology
+
+All geospatial analysis was conducted using **ArcGIS Pro**, supported by ACS data accessed via R’s `tidycensus` package.
+
+### 🔧 ArcGIS Geoprocessing Tools Used:
+
+- **Buffer** – Created 1-mile buffers around each MARTA station.
+- **Select Layer By Attributes** – Filtered census block groups relevant to the years 2018 and 2023.
+- **Intersect** – Identified block groups that intersect each station's buffer.
+- **Join Field** – Merged ACS data fields for 2018 and 2023.
+- **Calculate Field** – Computed percent change in public transit commuting.
+- **Select by Attributes** – Isolated top 5 increases and top 5 decreases in mode share.
+- **Labeling with Callouts** – Labeled percent change using Maplex engine and custom halos for legibility.
+- **Symbology** – Colored buffers to indicate increase (green) or decrease (orange) in transit usage.
+
+## Design Choices
+
+- **Station names are intentionally omitted** to maintain a clean layout and emphasize the magnitude and geography of change.
+- Color-coded **callout labels** highlight the top 5 stations with the **largest increases** and **largest decreases** in transit commuting share.
+- A custom legend clarifies MARTA rail lines, buffer zones, and top-performing stations.
+
+## Data Sources
+
+- **ACS 5-Year Estimates (2014–2018 and 2019–2023)**: Table B08301 (Means of Transportation to Work), accessed via [`tidycensus`](https://walker-data.com/tidycensus/) in R.
+- **MARTA Station and Rail Line GIS Data**: Georgia GIS Clearinghouse and MARTA Open Data Portal.
+
+## Tools Used
+
+- ArcGIS Pro 3.x
+- R (for ACS data extraction and prep)
+
+---
+
 ## 🌲 GIS Capability Analysis: Pine Tree Viability in North Texas
 
 **Objective:** Can Christmas trees grow near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
