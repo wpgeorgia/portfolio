@@ -36,7 +36,7 @@ Summary of Conclusions:
 
 ---
 
-# 🚇 Change in Public Transit Ridership Near MARTA Rail Stations (2018–2023)
+# 🚇 Visulaizing Changes in Public Transit Ridership Near MARTA Rail Stations (2018-2023)
 
 ## Overview
 
