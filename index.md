@@ -44,7 +44,7 @@ This map visualizes the **change in public transit commuting near MARTA rail sta
 
 The analysis compares the **percentage of workers commuting by public transit** in 2018 vs. 2023 to identify stations with the most significant changes over time.
 
-**Created during my internship with City of Atlanta Department of Transportation.**
+**Created during my internship with the City of Atlanta Department of Transportation.**
 
 ![Change in Ridership Map](Chg_Ridership_near_MARTA_Rail.jpg)
 
