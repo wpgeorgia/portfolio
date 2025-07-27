@@ -32,6 +32,30 @@ The report includes thematic maps and scatterplots showing relationships between
 
 ---
 
+# 📊 Analyzing MARTA GTFS Data in R
+
+This project demonstrates how to work with General Transit Feed Specification (GTFS) data from the Metropolitan Atlanta Rapid Transit Authority (MARTA) using R.
+
+🛰️ **Key Tools Used:**
+- `tidytransit` for GTFS data handling  
+- `sf` and `tmap` for spatial visualization  
+- `leaflet` for interactive mapping  
+- `dbscan` and `sfnetworks` for spatial clustering and network analysis
+
+🔗 **View the full interactive report on RPubs:**  
+👉 [RPubs: MARTA GTFS Analysis](https://rpubs.com/wgeorgia6/1245484)
+
+---
+
+## 🧠 Project Highlights
+
+- Downloaded and parsed MARTA’s live GTFS feed.
+- Filtered stop times for specific date/time ranges.
+- Mapped stops, routes, and spatial patterns using `leaflet` and `tmap`.
+- Used `sfnetworks` and `dbscan` for identifying clusters and patterns in transit stop locations.
+
+---
+
 # 🚇 Change in Public Transit Ridership Near MARTA Rail Stations (2018–2023)
 
 ![Change in Ridership Map](Chg_Ridership_near_MARTA_Rail.jpg)
