@@ -133,7 +133,7 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 
 # 🧱 Estimating Population inside Buildings with Dasymetric Mapping
 
-This lab completed in my Environmental GIS course explores methods to estimate population within buildings in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and building geometry to create meaningful estimates of where people live.
+This lab completed in my Environmental GIS course explores methods to estimate population within buildings in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and techniques to refine population estimates with ancillary data.
 
 ## 🛠️ Skills Demonstrated
 - Spatial join of building centroids with census blocks
@@ -154,7 +154,7 @@ This lab completed in my Environmental GIS course explores methods to estimate p
 
 # 🐑 Least-Cost Path and Cost Distance Modeling
 
-This assignment also from Environmental GIS applies raster-based modeling to identify optimal locations for observing sheep in a landscape, considering environmental friction. The lab demonstrates cost-distance analysis, anisotropic surfaces, and least-cost path extraction in ArcGIS Pro.
+This assignment, also from Environmental GIS, applies raster-based modeling to identify optimal locations for observing sheep in their native habitat factoring in environmental friction.
 
 ## 🛠️ Skills Demonstrated
 - Creating Euclidean and cost distance rasters
@@ -164,9 +164,9 @@ This assignment also from Environmental GIS applies raster-based modeling to ide
 - Symbolizing spatial risk and path difficulty
 
 ## 📌 Key Outputs
-- Friction surface raster with strenuousness-based symbology
-- Risk-weighted observer point analysis
-- Least-cost path network and cost profile
+- Friction surface raster with symbology detailing strenuousness
+- Risk-weighted point analysis
+- Least-cost path network and cost profiling
 - Comparison of Euclidean vs. cost paths (length and difficulty)
 
 📄 [View the Full Report (PDF)](CP%206541%20LAB%2011%20WG%202025-04-22.pdf)
@@ -176,7 +176,7 @@ This assignment also from Environmental GIS applies raster-based modeling to ide
 # 🗺️ GIS StoryMap: Dallas Parks: Decent or Deficient?
 
 **Overview:**  
-This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ranking in public green space.
+This ArcGIS StoryMap takes a high-level looks at what factors into Dallas' poor parks ranking.
 
 **Features:**
 - Map-based storytelling using **ArcGIS StoryMaps**
