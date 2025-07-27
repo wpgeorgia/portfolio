@@ -111,7 +111,7 @@ Using OpenStreetMap and Google Street View APIs, the workflow:
 - Identified spatial disparities in pedestrian-friendly design across the city.
 - Provided a framework that can be applied to other cities using similar data inputs.
 
-## 📎 [View Full Report on RPubs](https://rpubs.com/wgeorgia6/1245484)
+📎 [View Full Report on RPubs](https://rpubs.com/wgeorgia6/1245484)
 
 ---
 
