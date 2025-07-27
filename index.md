@@ -192,4 +192,3 @@ This ArcGIS StoryMap takes a high-level looks at what factors into Dallas' poor 
 ## 📬 Contact
 
 - 📧 william.georgia@gatech.edu
-- 🌐 [wpgeorgia.github.io/portfolio/]
