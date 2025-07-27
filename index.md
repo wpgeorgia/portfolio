@@ -66,6 +66,8 @@ This map visualizes the **change in public transit commuting near MARTA rail sta
 
 The analysis compares the **percentage of workers commuting by public transit** in 2018 vs. 2023 to identify stations with the most significant changes over time.
 
+**Created as during internship with City of Atlanta Department of Transportation**
+
 ## Key Takeaways
 
 - Northern Red Line stations experienced **steep declines**, with some stations seeing reductions over 75%.
