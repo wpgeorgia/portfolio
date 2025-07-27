@@ -174,7 +174,7 @@ This assignment also from Environmental GIS applies raster-based modeling to ide
 
 ---
 
-## 🗺️ GIS StoryMap: Dallas Parks: Decent or Deficient?
+# 🗺️ GIS StoryMap: Dallas Parks: Decent or Deficient?
 
 **Overview:**  
 This ArcGIS StoryMap gives looks at one component factoring into Dallas' poor ranking in public green space.
