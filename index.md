@@ -1,5 +1,6 @@
 # 🏙️ Welcome! 
-I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a passion for urbanism, transportation, and all components of the built environments we share. This portfolio showcases skills I’ve developed through hands-on coursework and case studies.
+I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a passion for urban design, urban transportation, and all components of the built urban environments we share. This portfolio showcases skills I’ve developed through hands-on coursework and case studies.
+
 
 ---
 
@@ -33,7 +34,7 @@ The report includes thematic maps and scatterplots showing relationships between
 
 # 📊 Analyzing MARTA GTFS Data in R
 
-This assignment demonstrates how to work with General Transit Feed Specification (GTFS) data from the Metropolitan Atlanta Rapid Transit Authority (MARTA) using R.
+Demonstrating how to work with General Transit Feed Specification (GTFS) data from the Metropolitan Atlanta Rapid Transit Authority (MARTA) using R, this assignment.
 
 🛰️ **Key Tools Used:**
 - `tidytransit` for GTFS data handling  
@@ -46,7 +47,7 @@ This assignment demonstrates how to work with General Transit Feed Specification
 
 ---
 
-## 🧠 Project Highlights
+## 🧠 Key Highlights
 
 - Downloaded and parsed MARTA’s live GTFS feed.
 - Filtered stop times for specific date/time ranges.
@@ -57,8 +58,6 @@ This assignment demonstrates how to work with General Transit Feed Specification
 
 # 🚇 Change in Public Transit Ridership Near MARTA Rail Stations (2018–2023)
 
-![Change in Ridership Map](Chg_Ridership_near_MARTA_Rail.jpg)
-
 ## Overview
 
 This map visualizes the **change in public transit commuting near MARTA rail stations in Atlanta** between 2018 and 2023. Using data from the **American Community Survey (ACS) 5-Year Estimates**, it focuses on areas **within a 1-mile buffer** around each rail station, representing a typical walkable catchment area.
@@ -66,6 +65,8 @@ This map visualizes the **change in public transit commuting near MARTA rail sta
 The analysis compares the **percentage of workers commuting by public transit** in 2018 vs. 2023 to identify stations with the most significant changes over time.
 
 **Created during my internship with City of Atlanta Department of Transportation.**
+
+![Change in Ridership Map](Chg_Ridership_near_MARTA_Rail.jpg)
 
 ## Key Takeaways
 
