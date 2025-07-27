@@ -87,6 +87,34 @@ All geospatial analysis was conducted using **ArcGIS Pro**, supported by ACS dat
 
 ---
 
+# 🏙️ Walkability and the Built Environment
+
+This project explores the visual and physical elements of walkability in the built environment using **computer vision** and **street-level imagery** in R. The analysis explores the features AI can offer to evaluate urban form using publicly available geospatial data and imagery.
+
+## 🔍 Project Overview
+
+Using OpenStreetMap and Google Street View APIs, the workflow:
+- Extracts street imagery from selected intersections in Atlanta.
+- Applies **computer vision** techniques to classify and quantify key walkability indicators like sidewalks, greenery, road presence, and pedestrian infrastructure.
+- Aggregates these indicators by location to reveal spatial patterns in walkability.
+
+## 🛠️ Key Tools & Skills
+
+- **R programming**: tidyverse, osmdata, streetview, keras
+- **Computer vision**: Pre-trained convolutional neural networks (CNNs) to classify elements from images
+- **Geospatial analysis**: spatial joins, point buffering, and street network mapping
+- **Data visualization**: Maps and plots to reveal walkability variation
+
+## 🗺️ Results
+
+- Generated a walkability score at the neighborhood scale.
+- Identified spatial disparities in pedestrian-friendly design across the city.
+- Provided a framework that can be applied to other cities using similar data inputs.
+
+## 📎 [View Full Report on RPubs](https://rpubs.com/wgeorgia6/1245484)
+
+---
+
 ## 🌲 GIS Capability Analysis: Pine Tree Viability in North Texas
 
 **Objective:** Can Christmas trees grow near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
