@@ -124,6 +124,56 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 
 ---
 
+# 🧱 Estimating Population at the Building Level – Lab 2
+
+📅 **Date:** January 23, 2025  
+🎓 **Course:** CP 6541 – GIS for Urban Planning  
+✍️ **Author:** Will Georgia
+
+This lab explores methods to estimate population at the building level in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and building geometry to create meaningful estimates of where people live.
+
+## 🛠️ Skills Demonstrated
+- Spatial join of building centroids with census blocks
+- Population estimation using building area and volume
+- Parsing FIPS codes into tract, block group, etc.
+- Accuracy trade-offs between zoning and land cover
+- Use of dot density symbology and 3D visualization
+
+## 📌 Key Outputs
+- Scatterplot comparing BldgPop_Area vs. BldgPop_Volume  
+- Dot density maps of estimated building populations  
+- Table aggregating population by zoning type  
+- 3D Local Scene of extruded Manhattan buildings
+
+📄 [View the Full Report (PDF)](CP%206541%20LAB%202%20WG%202025-01-23.pdf)
+
+---
+
+# 🐑 Least-Cost Path and Cost Distance Modeling – Lab 11
+
+📅 **Date:** April 22, 2025  
+🎓 **Course:** CP 6541 – GIS for Urban Planning  
+✍️ **Author:** Will Georgia
+
+This assignment applies raster-based modeling to identify optimal locations for observing sheep in a landscape, considering environmental friction. The lab demonstrates cost-distance analysis, anisotropic surfaces, and least-cost path extraction in ArcGIS Pro.
+
+## 🛠️ Skills Demonstrated
+- Creating Euclidean and cost distance rasters
+- Defining friction surfaces using land cover data (e.g., vegetation, streams)
+- Understanding isotropic vs. anisotropic distance modeling
+- Extracting and interpreting least-cost paths
+- Symbolizing spatial risk and path difficulty
+
+## 📌 Key Outputs
+- Friction surface raster with strenuousness-based symbology
+- Risk-weighted observer point analysis
+- Least-cost path network and cost profile
+- Comparison of Euclidean vs. cost paths (length and difficulty)
+
+📄 [View the Full Report (PDF)](CP%206541%20LAB%2011%20WG%202025-04-22.pdf)
+
+---
+
 ## 🗺️ GIS StoryMap: Dallas Parks: Decent or Deficient?
 
 **Overview:**  
