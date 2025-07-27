@@ -4,9 +4,9 @@ I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a
 
 ---
 
-# 🚍 Park-and-Ride Travel Time Simulation
+# 🚍 Park-and-Ride Travel Time Simulation with MARTA GTFS Data in R
 
-This assignment analyzed park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
+This project analyzed park-and-ride travel times from census tract centroids in the Atlanta area to Midtown Station using:
 
 - GTFS transit data from MARTA
 - ACS demographic data
@@ -24,35 +24,19 @@ This assignment analyzed park-and-ride travel times from census tract centroids 
 - `tidycensus` for ACS data (household income & race)
 - Spatial joins, centroid extraction, and travel time simulation
 
-## 🗺️ Outputs
+## 🗺️ Outputs and Conclusions
 
 The report includes thematic maps and scatterplots showing relationships between:
 - Household income and travel time
 - Minority population share and travel time
 
----
-
-# 📊 Analyzing MARTA GTFS Data in R
-
-Demonstrating how to work with General Transit Feed Specification (GTFS) data from the Metropolitan Atlanta Rapid Transit Authority (MARTA) using R, this assignment.
-
-🛰️ **Key Tools Used:**
-- `tidytransit` for GTFS data handling  
-- `sf` and `tmap` for spatial visualization  
-- `leaflet` for interactive mapping  
-- `dbscan` and `sfnetworks` for spatial clustering and network analysis
-
-🔗 **View the full interactive report on RPubs:**  
-👉 [RPubs: MARTA GTFS Analysis](https://rpubs.com/wgeorgia6/1245484)
+Summary of Conclusions:
+- Commute time was primarily influenced by geographic proximity
+- Income and race trends were difficult to discern and deserve a deeper dive
 
 ---
 
-## 🧠 Key Highlights
 
-- Downloaded and parsed MARTA’s live GTFS feed.
-- Filtered stop times for specific date/time ranges.
-- Mapped stops, routes, and spatial patterns using `leaflet` and `tmap`.
-- Used `sfnetworks` and `dbscan` for identifying clusters and patterns in transit stop locations.
 
 ---
 
