@@ -33,7 +33,7 @@ The report includes thematic maps and scatterplots showing relationships between
 
 # 📊 Analyzing MARTA GTFS Data in R
 
-This project demonstrates how to work with General Transit Feed Specification (GTFS) data from the Metropolitan Atlanta Rapid Transit Authority (MARTA) using R.
+This assignment demonstrates how to work with General Transit Feed Specification (GTFS) data from the Metropolitan Atlanta Rapid Transit Authority (MARTA) using R.
 
 🛰️ **Key Tools Used:**
 - `tidytransit` for GTFS data handling  
