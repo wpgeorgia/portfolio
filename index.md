@@ -16,14 +16,14 @@ This project analyzed park-and-ride travel times from census tract centroids in 
 
 👉 [View Interactive Report on RPubs](https://rpubs.com/wgeorgia6/1238230)
 
-## 📌 Key Tools and Methods
+## Key Tools and Methods
 
 - `tidytransit` and `gtfsrouter` for GTFS data
 - `osmdata` and `sfnetworks` for street networks
 - `tidycensus` for ACS data (household income & race)
 - Spatial joins, centroid extraction, and travel time simulation
 
-## 🗺️ Outputs and Conclusions
+## Outputs and Conclusions
 
 The report includes thematic maps and scatterplots showing relationships between:
 - Household income and travel time
@@ -57,7 +57,7 @@ The analysis compares the **percentage of workers commuting by public transit** 
 
 All geospatial analysis was conducted using **ArcGIS Pro**, supported by ACS data accessed via R’s `tidycensus` package.
 
-### 🔧 ArcGIS Geoprocessing Tools Used:
+### ArcGIS Geoprocessing Tools Used:
 
 - **Buffer** – Created 1-mile buffers around each MARTA station.
 - **Select Layer By Attributes** – Filtered census block groups relevant to the years 2018 and 2023.
@@ -90,27 +90,27 @@ All geospatial analysis was conducted using **ArcGIS Pro**, supported by ACS dat
 
 This project explores the visual and physical elements of walkability in the built environment using **computer vision** and **street-level imagery** in R. The analysis explores the features AI can offer to evaluate urban form using publicly available geospatial data and imagery.
 
-## 🔍 Project Overview
+## Project Overview
 
 Using OpenStreetMap and Google Street View APIs, the workflow:
 - Extracts street imagery from selected intersections in Atlanta.
 - Applies **computer vision** techniques to classify and quantify key walkability indicators like sidewalks, greenery, road presence, and pedestrian infrastructure.
 - Aggregates these indicators by location to reveal spatial patterns in walkability.
 
-## 🛠️ Key Tools & Skills
+## Key Tools & Skills
 
 - **R programming**: tidyverse, osmdata, streetview, keras
 - **Computer vision**: Pre-trained convolutional neural networks (CNNs) to classify elements from images
 - **Geospatial analysis**: spatial joins, point buffering, and street network mapping
 - **Data visualization**: Maps and plots to reveal walkability variation
 
-## 🗺️ Results
+## Results
 
 - Generated a walkability score at the neighborhood scale.
 - Identified spatial disparities in pedestrian-friendly design across the city.
 - Provided a framework that can be applied to other cities using similar data inputs.
 
-📎 [View Full Report on RPubs](https://rpubs.com/wgeorgia6/1245484)
+👉 [View Full Report on RPubs](https://rpubs.com/wgeorgia6/1245484)
 
 ---
 
@@ -127,7 +127,7 @@ Using OpenStreetMap and Google Street View APIs, the workflow:
 **Outcome:**  
 Viable areas were concentrated in East Texas, with temperature being the most limiting factor across the study area.
 
-📄 [Read the Full Report](./Pine_Trees_Capability_Analysis_2025_02_19.pdf)
+👉 [Read the Full Report](./Pine_Trees_Capability_Analysis_2025_02_19.pdf)
 
 ---
 
@@ -135,20 +135,20 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 
 This lab completed in my Environmental GIS course explores methods to estimate population within buildings in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and techniques to refine population estimates with ancillary data.
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 - Spatial join of building centroids with census blocks
 - Population estimation using building area and volume
 - Parsing FIPS codes into tract, block group, etc.
 - Accuracy trade-offs between zoning and land cover
 - Use of dot density symbology and 3D visualization
 
-## 📌 Key Outputs
+## Key Outputs
 - Scatterplot comparing building population by footprint (area) vs. building population by volume
 - Dot density maps of estimated building populations  
 - Summary table aggregating population by zoning type  
 - 3D Local Scene of extruded Manhattan buildings
 
-📄 [View the Full Report (PDF)](CP%206541%20LAB%202%20WG%202025-01-23.pdf)
+👉 [View the Full Report (PDF)](CP%206541%20LAB%202%20WG%202025-01-23.pdf)
 
 ---
 
@@ -156,20 +156,20 @@ This lab completed in my Environmental GIS course explores methods to estimate p
 
 This assignment, also from Environmental GIS, applies raster-based modeling to identify optimal locations for observing sheep in their native habitat factoring in environmental friction.
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 - Creating Euclidean and cost distance rasters
 - Defining friction surfaces using land cover data (e.g., vegetation, streams)
 - Understanding isotropic vs. anisotropic distance modeling
 - Extracting and interpreting least-cost paths
 - Symbolizing spatial risk and path difficulty
 
-## 📌 Key Outputs
+## Key Outputs
 - Friction surface raster with symbology detailing strenuousness
 - Risk-weighted point analysis
 - Least-cost path network and cost profiling
 - Comparison of Euclidean vs. cost paths (length and difficulty)
 
-📄 [View the Full Report (PDF)](CP%206541%20LAB%2011%20WG%202025-04-22.pdf)
+👉 [View the Full Report (PDF)](CP%206541%20LAB%2011%20WG%202025-04-22.pdf)
 
 ---
 
@@ -183,7 +183,7 @@ This ArcGIS StoryMap takes a high-level looks at what factors into Dallas' poor 
 - Feature layers pulled from the city of Dallas and the Census Bureau
 - Geoprocessing tools used to take a closer look at park coverage in the city by census tract
 
-🔗 [Explore the StoryMap](https://arcg.is/1aO1Cv1)
+👉 [Explore the StoryMap](https://arcg.is/1aO1Cv1)
 
 ---
 
