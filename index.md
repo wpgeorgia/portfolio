@@ -14,7 +14,6 @@ This assignment analyzed park-and-ride travel times from census tract centroids 
 - Transit routing with `tidytransit`
 
 **Explore the full report here:**
-
 👉 [View Interactive Report on RPubs](https://rpubs.com/wgeorgia6/1238230)
 
 ## 📌 Key Tools and Methods
