@@ -45,7 +45,7 @@ The analysis compares the **percentage of workers commuting by public transit** 
 
 **Created during my internship with the City of Atlanta Department of Transportation.**
 
-![Change in Ridership Map](Chng_Ridership_near_MARTA_Rail.jpg)
+![Change in Ridership Map](18_23_Cg_Ridership_near_MARTA_Rail.jpg)
 
 ## Key Takeaways
 
