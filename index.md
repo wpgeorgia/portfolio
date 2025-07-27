@@ -104,9 +104,9 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 
 ---
 
-# 🧱 Estimating Population at the Building Level with Dasymetric Mapping
+# 🧱 Estimating Population inside Buildings with Dasymetric Mapping
 
-This lab completed in my Environmental GIS course explores methods to estimate population at the building level in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and building geometry to create meaningful estimates of where people live.
+This lab completed in my Environmental GIS course explores methods to estimate population within buildings in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and building geometry to create meaningful estimates of where people live.
 
 ## 🛠️ Skills Demonstrated
 - Spatial join of building centroids with census blocks
@@ -116,9 +116,9 @@ This lab completed in my Environmental GIS course explores methods to estimate p
 - Use of dot density symbology and 3D visualization
 
 ## 📌 Key Outputs
-- Scatterplot comparing BldgPop_Area vs. BldgPop_Volume  
+- Scatterplot comparing building population by footprint (area) vs. building population by volume
 - Dot density maps of estimated building populations  
-- Table aggregating population by zoning type  
+- Summary table aggregating population by zoning type  
 - 3D Local Scene of extruded Manhattan buildings
 
 📄 [View the Full Report (PDF)](CP%206541%20LAB%202%20WG%202025-01-23.pdf)
