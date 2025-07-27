@@ -104,13 +104,9 @@ Viable areas were concentrated in East Texas, with temperature being the most li
 
 ---
 
-# 🧱 Estimating Population at the Building Level – Lab 2
+# 🧱 Estimating Population at the Building Level with Dasymetric Mapping
 
-📅 **Date:** January 23, 2025  
-🎓 **Course:** CP 6541 – GIS for Urban Planning  
-✍️ **Author:** Will Georgia
-
-This lab explores methods to estimate population at the building level in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and building geometry to create meaningful estimates of where people live.
+This lab completed in my Environmental GIS course explores methods to estimate population at the building level in Manhattan using zoning, land cover, and census data. The analysis combines spatial joins, population density calculations, and building geometry to create meaningful estimates of where people live.
 
 ## 🛠️ Skills Demonstrated
 - Spatial join of building centroids with census blocks
@@ -129,13 +125,9 @@ This lab explores methods to estimate population at the building level in Manhat
 
 ---
 
-# 🐑 Least-Cost Path and Cost Distance Modeling – Lab 11
+# 🐑 Least-Cost Path and Cost Distance Modeling
 
-📅 **Date:** April 22, 2025  
-🎓 **Course:** CP 6541 – GIS for Urban Planning  
-✍️ **Author:** Will Georgia
-
-This assignment applies raster-based modeling to identify optimal locations for observing sheep in a landscape, considering environmental friction. The lab demonstrates cost-distance analysis, anisotropic surfaces, and least-cost path extraction in ArcGIS Pro.
+This assignment also from Environmental GIS applies raster-based modeling to identify optimal locations for observing sheep in a landscape, considering environmental friction. The lab demonstrates cost-distance analysis, anisotropic surfaces, and least-cost path extraction in ArcGIS Pro.
 
 ## 🛠️ Skills Demonstrated
 - Creating Euclidean and cost distance rasters
