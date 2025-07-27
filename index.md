@@ -1,5 +1,5 @@
 # 🏙️ Welcome! 
-I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a passion for cities, transportation, and all components of the built environments we share. This portfolio showcases skills I’ve developed through hands-on coursework and case studies.
+I'm Will Georgia, a Master’s student in Urban Analytics at Georgia Tech with a passion for urbanism, transportation, and all components of the built environments we share. This portfolio showcases skills I’ve developed through hands-on coursework and case studies.
 
 ---
 
