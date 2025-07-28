@@ -114,9 +114,9 @@ Using OpenStreetMap and Google Street View APIs, the workflow:
 
 ---
 
-## 🌲 GIS Capability Analysis: Pine Tree Viability in North Texas
+## 🌲 GIS Capability Analysis: Growing Pine Trees in North Texas
 
-**Objective:** Can Christmas trees grow near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
+**Objective:** Can Christmas trees thrive near Dallas, Texas? Let's use GIS tools to conduct a capability analysis to find out.
 
 **Approach:**
 - Compared native habitat conditions of **Virginia Pine** and **Eastern White Pine** to North Texas environmental data.
